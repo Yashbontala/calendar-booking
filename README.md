@@ -28,7 +28,7 @@ All API Details are mentioned in swagger with examples
 
 ## Running Tests
 ```bash
-mvn spring-boot:run
+mvn test
 `````
 
 ## Design & Assumptions
