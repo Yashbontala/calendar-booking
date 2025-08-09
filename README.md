@@ -35,7 +35,7 @@ mvn spring-boot:run
 
 1.Time slots are always 60 minutes long.
 
-2.Availabilities are per-date (a date cannot have overlapping rules).
+2.Availabilities are per-date (a date cannot have overlapping times).
 
 3.No authentication is implemented — assumed the owner is authenticated.
 
